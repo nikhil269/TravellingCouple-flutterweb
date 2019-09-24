@@ -1,6 +1,6 @@
 # travellingcouple
 
-A new Flutter project.
+Landing page template of Travelling Couple Taking Photos Together Illustration Concept. Modern design concept of web page design for website and mobile website.
 
 ## Getting Started
 
